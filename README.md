@@ -16,7 +16,7 @@ scikit-learn=1.2.0
 ### Backdoored Images
 
 <div align=center>
-<img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png" width="180" height="105"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-3.png" width="180" height="105"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-4.png" width="180" height="105"/><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-4.png" width="180" height="105"/>
+<img src="https://github.com/JiePKU/BadNets/blob/master/backdoored_img/cifar10_pattern_backdoored.jpg" width="180" height="105"><img src="https://github.com/JiePKU/BadNets/blob/master/backdoored_img/cifar10_single_backdoored.jpg" width="180" height="105"><img src="https://github.com/JiePKU/BadNets/blob/master/backdoored_img/mnist_pattern_backdoored.jpg" width="180" height="105"/><img src="https://github.com/JiePKU/BadNets/blob/master/backdoored_img/mnist_pixel_backdoored.jpg" width="180" height="105"/>
 </div>
 
 ### Quick Start
